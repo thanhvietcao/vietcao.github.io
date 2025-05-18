@@ -7,16 +7,16 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat',Calibri;
     font-weight: unset;
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px; font-family: 'Montserrat';
+  margin:0 0 20px; font-family: 'Montserrat',Calibri;
 }
 
 h1, h2, h3 {
-  line-height:1.1; font-family: 'Montserrat';
+  line-height:1.1; font-family: 'Montserrat',Calibri;
 }
 
 h1 {
@@ -30,7 +30,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949; font-family: 'Montserrat';
+  color:#494949; font-family: 'Montserrat',Calibri;
   font-weight: 500;
 }
 
@@ -63,7 +63,7 @@ blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
   padding:0 0 0 20px;
-  font-style:italic;font-family: 'Montserrat';
+  font-style:italic;font-family: 'Montserrat',Calibri;
 }
 
 code, pre {
@@ -159,12 +159,12 @@ strong {
 }
 
 header ul li + li + li {
-  border-right:none;font-family: 'Montserrat';
+  border-right:none;font-family: 'Montserrat',Calibri;
   width:89px;
 }
 
 header ul a strong {
-  font-size:14px;font-family: 'Montserrat';
+  font-size:14px;font-family: 'Montserrat',Calibri;
   display:block;
   color:#222;
 }
@@ -176,7 +176,7 @@ section {
 }
 
 small {
-  font-size:12px;font-family: 'Montserrat';
+  font-size:12px;font-family: 'Montserrat',Calibri;
 }
 
 hr {
@@ -212,7 +212,7 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;font-family: 'Montserrat';
+    border:1px solid #e5e5e5;font-family: 'Montserrat',Calibri;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
